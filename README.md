@@ -1,2 +1,2 @@
 # people-management-api
- Project to create a Rest API for managing people with Spring Boot.
+Development project of a REST API for managing people with Spring Boot.
